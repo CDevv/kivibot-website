@@ -1,0 +1,22 @@
+* {
+    background-color: coral;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: flex;
+    padding: 5px;
+}
+
+div {
+    background-color: coral;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 5px;
+}
+
+a {
+    margin: 0 2px;
+}
